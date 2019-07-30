@@ -1,0 +1,125 @@
+{
+    "name": "Learn French",
+    "language": "french",
+    "image": "null",
+    "levels": [
+        {
+            "names": [
+                {
+                    "english": "Basics"
+                }
+            ],
+            "lessons": [
+                {
+                    "name": "Basics 1",
+                    "image": "images/basics_1.png",
+                    "supports": "english",
+                    "word bank": [
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "I am a woman."
+                                }
+                            ],
+                            "answer": "Je,suis,une,femme",
+                            "choices": "homme,et,es,tu"
+                        },
+                        {
+                            "type": 0,
+                            "question": "Je suis un homme et tu es une femme.",
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "answer": "I,am,a,man,and,you,are,a,woman",
+                                    "choices": "yes,no,girl,boy"
+                                }
+                            ]
+                        }
+                    ],
+                    "typing": [
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "You are a woman."
+                                }
+                            ],
+                            "answer": "Tu es une femme."
+                        },
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "I am a girl and you are a boy."
+                                }
+                            ],
+                            "answer": "Je suis une fille et tu es un garçon."
+                        },
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "Yes, I am a man."
+                                }
+                            ],
+                            "answer": "Oui, je suis un homme."
+                        },
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "A girl"
+                                }
+                            ],
+                            "answer": "Une fille"
+                        }
+                    ],
+                    "multiple choice": [
+                        {
+                            "type": 2,
+                            "instructions": [
+                                {
+                                    "language": "english",
+                                    "instruction": "Select the missing word"
+                                }
+                            ],
+                            "question": "Tu __ une fille.",
+                            "answer": "es",
+                            "choices": "et"
+                        },
+                        {
+                            "type": 2,
+                            "instructions": [
+                                {
+                                    "language": "english",
+                                    "instruction": "Select the missing word"
+                                }
+                            ],
+                            "question": "Je suis un __ et tu es une femme.",
+                            "answer": "homme",
+                            "choices": "femme"
+                        },
+                        {
+                            "type": 2,
+                            "instructions": [
+                                {
+                                    "language": "english",
+                                    "instruction": "Select the missing word"
+                                }
+                            ],
+                            "question": "Je suis une fille __ tu es un garçon.",
+                            "answer": "et",
+                            "choices": "es"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

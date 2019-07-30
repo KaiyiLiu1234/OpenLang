@@ -1,0 +1,121 @@
+{
+    "name": "Zəilish",
+    "language": "zeilish",
+    "image": "misc.png",
+    "levels": [
+        {
+            "names": [
+                {
+                    "english": "Basics",
+                    "zeilish": "Bcisiks"
+                }
+            ],
+            "lessons": [
+                {
+                    "name": "Articles",
+                    "image": "images/articles.png",
+                    "supports": "english",
+                    "word bank": [
+                        {
+                            "_comment": "0 is new language -> old, 1 is old -> new",
+                            "type": 0,
+                            "question": "ci",
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "_comment": "use , to chain words, use ; to separate answers",
+                                    "answer": "a;one",
+                                    "choices": "the,yes"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "the"
+                                }
+                            ],
+                            "answer": "de",
+                            "choices": "dat,dis,ci"
+                        }
+                    ],
+                    "typing": [
+                        {
+                            "type": 0,
+                            "question": "ai",
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "answer": "I"
+                                }
+                            ]
+                        }
+                    ],
+                    "images": [
+                        {
+                            "array": [
+                                {
+                                    "image": "images/white.png",
+                                    "name": "alait",
+                                    "languages": [
+                                        {
+                                            "language": "english",
+                                            "name": "white"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "image": "images/black.png",
+                                    "name": "delait",
+                                    "languages": [
+                                        {
+                                            "language": "english",
+                                            "name": "black"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "image": "images/red.png",
+                                    "name": "rcd",
+                                    "languages": [
+                                        {
+                                            "language": "english",
+                                            "name": "red"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "multiple choice": [
+                        {
+                            "type": 0,
+                            "question": "Ai sag",
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "_comment": "use ; to separate answers, don't repeat the answer in choices",
+                                    "answer": "I say;I talk",
+                                    "choices": "I shout"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "He returns"
+                                }
+                            ],
+                            "answer": "Hai revurn",
+                            "choices": "Hai return;Hai retourn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

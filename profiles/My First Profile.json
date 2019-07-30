@@ -1,0 +1,9 @@
+{
+  "courses": [
+    {"name": "Zəilish"},
+    {"name": "Learn English"},
+    {"name": "Learn French"}
+  ],
+  "name": "My First Profile",
+  "language": "english"
+}

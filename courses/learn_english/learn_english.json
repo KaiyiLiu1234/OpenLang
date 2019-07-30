@@ -1,0 +1,27 @@
+{
+    "name": "Learn English",
+    "language": "english",
+    "image": "english.png",
+    "levels": [
+        {
+            "names": [
+                {
+                    "english": "Basics",
+                    "zeilish": "Bcisiks"
+                }
+            ],
+            "lessons": [
+                {
+                    "name": "Articles",
+                    "word bank": [
+                        {
+                            "question": "ci",
+                            "answer": "a, one",
+                            "choices": "the, yes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

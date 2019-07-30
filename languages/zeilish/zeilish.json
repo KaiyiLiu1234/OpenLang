@@ -1,0 +1,26 @@
+{
+    "name": "Zəilish",
+    "id": "zeilish",
+    "type": 0,
+    "image": "misc.png",
+    "font": "AulishArialMT.ttf",
+    "questions": [
+        {
+            "word bank 0": "Translate the following into Zeilish:",
+            "word bank 1": "Translate the following into @:"
+        }
+    ],
+    "correct": "Correct",
+    "wrong": "Wrong",
+    "lesson complete": "Lesson Complete!",
+    "vocabulary": [
+        {
+            "zeilish": "ci",
+            "english": "a;one"
+        },
+        {
+            "zeilish": "ai",
+            "english": "I"
+        }
+    ]
+}

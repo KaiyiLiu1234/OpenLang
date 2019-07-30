@@ -1,0 +1,27 @@
+{
+    "name": "English",
+    "id": "english",
+    "type": 0,
+    "image": "english.png",
+    "questions": [
+        {
+            "word bank 0": "Translate the following into English:",
+            "word bank 1": "Translate the following into @:",
+            "typing 0": "Translate the following into English:",
+            "typing 1": "Translate the following into @:",
+            "images": "Which of these is @?",
+            "multiple choice 0": "Choose all correct English translations:",
+            "multiple choice 1": "Choose all correct @ translations:"
+        }
+    ],
+    "correct": "Correct",
+    "wrong": "Wrong",
+    "lesson complete": "Lesson Complete!",
+    "vocabulary": [
+        {
+            "english": "i",
+            "zeilish": "ai",
+            "french": "je"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "name": "French Memrise",
+    "language": "french",
+    "image": "images/course.png",
+    "levels": [
+        {
+            "names": [
+                {
+                    "english": "Level 1"
+                }
+            ],
+            "lessons": [
+                {
+                    "name": "Launchpad!",
+                    "image": "images/launchpad.png",
+                    "supports": "english",
+                    "word bank": [
+
+                    ],
+                    "typing": [
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "Cheers!"
+                                }
+                            ],
+                            "answer": "Santé"
+                        },
+                        {
+                            "type": 1,
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "question": "Yes"
+                                }
+                            ],
+                            "answer": "Oui"
+                        }
+                    ],
+                    "multiple choice": [
+                        {
+                            "type": 0,
+                            "question": "Salut!",
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "answer": "Hi",
+                                    "choices": "To follow,On; over,Suddenly"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "question": "Quoi de neuf?",
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "answer": "What's up?",
+                                    "choices": "To ask a question,As long as...,Ninety;90"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "question": "Allons-y?",
+                            "languages": [
+                                {
+                                    "language": "english",
+                                    "answer": "Let's go!",
+                                    "choices": "By the way...,Happy New Year!,The agent"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
